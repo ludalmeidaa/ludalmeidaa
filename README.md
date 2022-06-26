@@ -29,16 +29,6 @@
 
 ###
 
-<h2 align="center">Commits</h2>
-
-###
-
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/ludalmeidaa/ludalmeidaa/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="center">Total de visitas</h2>
 
 ###
